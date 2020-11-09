@@ -1,11 +1,14 @@
 1. Además de Git, ¿que otros sistemas de control de versiones existen?
-
+CVS, Mercurial, Monotone, etc.
 2. En Git, ¿para qué sirve el comando git config?
-
+Para ajustar los valores de configuración.
 3. En Git, ¿para qué sirve el comando git init?
-
+Iniciar un nuevo repositorio.
 4. En Git, ¿para qué sirve el comando git clone?
-
+Para obtener una copia de un repositorio existente.
 5. En Git, ¿para qué sirve el comando git status?
-
+Muestra el estado del directorio de trabajo y del área del entorno de ensayo.
 6. En Git, ¿para qué sirve el comando git add?
+Añade los archivos al area de ensayo.
+
+Laro y Dani
